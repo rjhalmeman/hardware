@@ -1,4 +1,3 @@
-# Fabricantes de notebooks
 
 ## Computador para trabalho/escola
 
@@ -13,6 +12,8 @@ Se for intel, fica melhor com placa de vídeo dedicada.
 Resolução de tela: mínimo de 1920x1080p IPS.
 
 --- 
+# Fabricantes de notebooks
+
 ## Por preferência pessoal (uso pessoal e observando os computadores que os alunos usam)
 
 Samsung (menor número de problemas observados por mim)
