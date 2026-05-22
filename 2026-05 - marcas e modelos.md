@@ -37,6 +37,14 @@ melhores notebooks custo-benefício para trabalho em 2026. Canais confiáveis - 
 https://www.youtube.com/watch?v=HznNn-t2c3A
 
 
+Sistema operacional LINUX, costuma ser mais barato
+
+Notebook ASUS Vivobook 15 M1502YA AMD Ryzen 7 5825U 16GB Ram 512GB SSD Linux KeepOS 15,6" FHD Cool Silver - NJ612
+
+https://www.mercadolivre.com.br/notebook-asus-vivobook-15-m1502ya-amd-ryzen-7-5825u-16gb-ram-512gb-ssd-linux-keepos-156-fhd-cool-silver-nj612/p/MLB48954249?pdp_filters=item_id%3AMLB5377872594&from=gshop&matt_tool=87164264&matt_word=&matt_source=google&matt_campaign_id=22123786079&matt_ad_group_id=174240716100&matt_match_type=&matt_network=g&matt_device=c&matt_creative=728942948118&matt_keyword=&matt_ad_position=&matt_ad_type=pla&matt_merchant_id=735125422&matt_product_id=MLB48954249-product&matt_product_partition_id=2389933078058&matt_target_id=pla-2389933078058&cq_src=google_ads&cq_cmp=22123786079&cq_net=g&cq_plt=gp&cq_med=pla&gad_source=1&gad_campaignid=22123786079&gbraid=0AAAAAD93qcAkKhH4unxAP-v9Xljw55ag2&gclid=Cj0KCQjw_b_QBhCSARIsAP6hR4dW9cCa2CVgwY14q_EDQwLNxFg-HXKeFzAeIjgUwViaLEIJkmXDpKgaArC2EALw_wcB
+
+
+
 
 
 
