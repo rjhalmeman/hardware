@@ -53,7 +53,14 @@ A Intel costuma trocar o socket com mais frequência.
 É importante entender que:
 
 - um i5 moderno pode superar um i7 antigo;
-- um Ryzen 5 recente pode superar Ryzen 7 antigos;
+- um Ryzen 5 recent| Tecnologia     | Breve observação                                                       |
+| -------------- | ---------------------------------------------------------------------- |
+| OLED / QD-OLED | Melhor qualidade de imagem, pretos perfeitos e altíssima velocidade    |
+| Mini-LED       | Excelente brilho e HDR, quase nível OLED sem risco alto de burn-in     |
+| IPS            | Melhor equilíbrio geral entre cores, ângulo de visão e custo-benefício |
+| VA             | Ótimo contraste e pretos mais profundos que IPS                        |
+| TN             | Tecnologia antiga, barata e rápida, porém com cores e ângulos ruins    |
+e pode superar Ryzen 7 antigos;
 - a geração importa mais do que apenas o nome.
 
 Exemplo:
@@ -166,3 +173,20 @@ O desempenho depende de vários fatores:
 - custo-benefício.
 
 Atualmente, tanto Intel quanto AMD possuem excelentes opções, e a escolha ideal depende principalmente do objetivo do usuário e do orçamento disponível.
+
+
+
+Telas/tecnologias
+
+IPS é o recomendado em 2026.
+
+| Tecnologia     | Breve observação                                                       |
+| -------------- | ---------------------------------------------------------------------- |
+| OLED / QD-OLED | Melhor qualidade de imagem, pretos perfeitos e altíssima velocidade    |
+| Mini-LED       | Excelente brilho e HDR, quase nível OLED sem risco alto de burn-in     |
+| IPS            | Melhor equilíbrio geral entre cores, ângulo de visão e custo-benefício |
+| VA             | Ótimo contraste e pretos mais profundos que IPS                        |
+| TN             | Tecnologia antiga, barata e rápida, porém com cores e ângulos ruins    |
+
+
+
